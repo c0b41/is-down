@@ -8,7 +8,7 @@
   },
   "bin" : {
     "is-down" : "cli.js"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/c0b41/is-down.git"
