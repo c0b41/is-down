@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin" : {
+    "is-down" : "cli.js"
+  }
   "repository": {
     "type": "git",
     "url": "git+https://github.com/c0b41/is-down.git"
@@ -18,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/c0b41/is-down/issues"
   },
-  "homepage": "https://github.com/c0b41/is-down#readme"
+  "homepage": "https://github.com/c0b41/is-down#readme",
+  "dependencies": {
+    "english-time-mirror": "0.0.9",
+    "got": "^6.7.1",
+    "meow": "^3.7.0",
+    "object.omit": "^2.0.1"
+  }
 }
