@@ -1,0 +1,22 @@
+{
+  "name": "is-down",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0b41/is-down.git"
+  },
+  "keywords": [
+    "is-down"
+  ],
+  "author": "Ayhan Kuru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c0b41/is-down/issues"
+  },
+  "homepage": "https://github.com/c0b41/is-down#readme"
+}
