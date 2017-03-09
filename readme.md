@@ -1,7 +1,7 @@
 ## Is down Webhook
 
 ```sh
-npm install -g is-down
+npm install -g is-down-webhook
 ```
 
 ### Usage
