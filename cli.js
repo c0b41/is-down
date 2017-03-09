@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var isdown = require('.');
 var meow = require('meow');
 
